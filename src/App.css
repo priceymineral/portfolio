@@ -11,8 +11,8 @@
 }
 
 img {
-  height: 30px;
-  width: 30px;
+  height: 50px;
+  width: 50px;
 }
 
 .github {
@@ -21,4 +21,19 @@ img {
 
 .linked-in {
   padding: 10px;
+}
+
+
+#contact input, #contact textarea, #contact select {
+    padding: 18px 20px;
+    color: #000000;
+    background: #cdcaca;
+    margin-bottom: 27px;
+    border: 0;
+    outline: none;
+    font-size: 15px;
+    line-height: 24px;
+    width: 45vw;
+    margin-left: 27.5vw;
+    margin-right: 27.5vw;
 }

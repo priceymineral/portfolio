@@ -4,9 +4,7 @@ import liLogo from '../assets/linked-in.png'
 const Header = () => {
     return (
         <div className="header-container">
-            <div className="name">
-                Octavio Sifuentes
-            </div>
+            <div className="name">Octavio Sifuentes</div>
             <div className="links-container">
                 <a  className="github" href="https://github.com/priceymineral" target="_blank" rel="noreferrer">
                     <img src={githubLogo} alt="github logo" />

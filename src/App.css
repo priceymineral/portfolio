@@ -3,6 +3,12 @@
   justify-content: center;
   padding-bottom: 30px;
   font-size: 100px;
+  color: white;
+}
+
+img {
+  height: 50px;
+  width: 50px;
 }
 
 .links-container {
@@ -10,10 +16,6 @@
   justify-content: center;
 }
 
-img {
-  height: 50px;
-  width: 50px;
-}
 
 .github {
   padding: 10px;
@@ -23,6 +25,63 @@ img {
   padding: 10px;
 }
 
+.about-header {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  font-size: 60px;
+  color: white;
+}
+
+.about-container {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.tech-stack-header {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  font-size: 60px;
+  color: white;
+}
+
+.projects-header {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  font-size: 60px;
+  color: white;
+}
+
+.projects-container {
+  display: flex;
+  justify-content: center;
+}
+
+.project-link-container {
+  padding-top: 30px;
+  padding-right: 30px;
+}
+
+.tech-stack-container {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.form-header {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  font-size: 60px;
+  color: white;
+}
+
+.form-container {
+  padding-block:40px;
+}
 
 #contact input, #contact textarea, #contact select {
     padding: 18px 20px;

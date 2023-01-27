@@ -7,10 +7,10 @@ const Projects = () => {
                     <a href="https://priceymineral.github.io/" target="_blank" rel="noreferrer">Treasure Hunt</a>
                 </div>
                 <div className="project-link-container">
-                    <a href="https://priceymineral.github.io/" target="_blank" rel="noreferrer">Pig Latin Translator</a>
+                    <a href="https://github.com/learn-academy-2022-hotel/pig-latin-team-courageous-babe" target="_blank" rel="noreferrer">Pig Latin Translator</a>
                 </div>
                 <div className="project-link-container">
-                    <a href="https://priceymineral.github.io/" target="_blank" rel="noreferrer">Tic Tac Toe</a>
+                    <a href="https://github.com/priceymineral/mini-applications-2/tree/main/challenge_2" target="_blank" rel="noreferrer">Bitcoin Price Index</a>
                 </div>
             </div>
         </>

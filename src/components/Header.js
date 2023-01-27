@@ -1,5 +1,5 @@
-import githubLogo from '../assets/mark-github.svg';
-import liLogo from '../assets/linked-in.png'
+import githubLogo from '../assets/images/mark-github.svg';
+import liLogo from '../assets/images/linked-in.png'
 
 const Header = () => {
     return (

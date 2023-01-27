@@ -3,14 +3,15 @@ const TechStack = () => {
         <>
             <div className="tech-stack-header">Tech Stack</div>
             <div className="tech-stack-container">
-                <ul>
-                    <li>JavaScript</li>
-                    <li>Python</li>
-                    <li>Ruby</li>
-                    <li>Ruby on Rails</li>
-                    <li>PostgreSQL</li>
-                    <li>React</li>
-                </ul>
+            <div>              
+                <div>JavaScript</div>
+                <div>Python</div>
+                <div>Ruby</div>
+                <div>Ruby on Rails</div>
+                <div>PostgreSQL</div>
+                <div>React</div>
+                <div>Jest</div>
+            </div> 
             </div>
         </>
     )

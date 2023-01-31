@@ -8,6 +8,8 @@ const TechStack = () => {
                 <div>Python</div>
                 <div>Ruby</div>
                 <div>Ruby on Rails</div>
+                <div>Node</div>
+                <div>Express</div>
                 <div>PostgreSQL</div>
                 <div>React</div>
                 <div>Jest</div>

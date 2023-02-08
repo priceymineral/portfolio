@@ -1,17 +1,21 @@
-import githubLogo from '../assets/images/mark-github.svg';
-import liLogo from '../assets/images/linked-in.png'
+import githubLogo from '../assets/images/github.svg';
+import liLogo from '../assets/images/linkedin.png'
 
 const Header = () => {
     return (
-        <div className="header-container">
+        <div className="header-container nine">
             <div className="name">Octavio Sifuentes</div>
             <div className="links-container">
-                <a  className="github" href="https://github.com/priceymineral" target="_blank" rel="noreferrer">
-                    <img src={githubLogo} alt="github logo" />
-                </a>
-                <a  className="linked-in" href="https://www.linkedin.com/in/octavio-sifuentes/" target="_blank" rel="noreferrer">
-                    <img src={liLogo} alt="linkedIn logo" />
-                </a>
+                <span>
+                    <a  className="github" href="https://github.com/priceymineral" target="_blank" rel="noreferrer">
+                        <img src={githubLogo} alt="github logo" />
+                    </a>    
+                </span>
+                <span>
+                    <a  className="linked-in" href="https://www.linkedin.com/in/octavio-sifuentes/" target="_blank" rel="noreferrer">
+                        <img src={liLogo} alt="linkedIn logo" />
+                    </a>
+                </span>
             </div>
         </div>
 

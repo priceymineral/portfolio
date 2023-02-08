@@ -14,7 +14,25 @@ img {
   display: flex;
   justify-content: center;
 }
-
+.links-container span {
+  font-size: 8vmin;
+  font-weight: bold;
+  color: rgb(15,59,120);
+  display: inline-flex;
+  animation: rotate 16s infinite;
+}
+@keyframes rotate {
+  0%,
+  65% {
+      transform: rotateX(360deg);
+  }
+}
+.nine span:nth-of-type(1) {
+  animation-delay: 0.10s;
+}
+.nine span:nth-of-type(2) {
+  animation-delay: 0.50s;
+}
 
 .github {
   padding: 10px;
@@ -36,6 +54,34 @@ img {
   padding-top: 30px;
   display: flex;
   justify-content: center;
+}
+
+.carousel {
+  overflow:hidden;
+}
+
+.inner {
+  white-space: nowrap;
+  transition: transform 0.3s;
+}
+
+.indicators {
+  display: flex;
+  justify-content: center;
+}
+
+.indicators > button {
+  margin:0%;
+  background-color: #7c7cb1;
+}
+
+.carousel-item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  background-color: #7c7cb1;
+  color: black;
 }
 
 .tech-stack-header {
@@ -82,7 +128,7 @@ img {
 .form-container {
   padding-block:40px;
 }
-
+/* 
 #contact input, #contact textarea, #contact select {
     padding: 18px 20px;
     color: #000000;
@@ -95,4 +141,4 @@ img {
     width: 45vw;
     margin-left: 27.5vw;
     margin-right: 27.5vw;
-}
+} */

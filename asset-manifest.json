@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff97aaf9.css",
-    "main.js": "/static/js/main.14c9f741.js",
+    "main.css": "/static/css/main.faad14b0.css",
+    "main.js": "/static/js/main.ddf16e98.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/python.png": "/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/ruby.png": "/static/media/ruby.0b422d1937bfcd04dc8e.png",
+    "static/media/postgres.jpg": "/static/media/postgres.9fd7b95bb7a28ca80cef.jpg",
+    "static/media/RoR.png": "/static/media/RoR.7da60e11d23f4dfb98e0.png",
+    "static/media/node.jpg": "/static/media/node.20c94615d59927dd1dbe.jpg",
+    "static/media/jest.avif": "/static/media/jest.c3bdef3e9da5f5021424.avif",
+    "static/media/react.png": "/static/media/react.c2a6ac864c4ccb52e12e.png",
+    "static/media/js.png": "/static/media/js.045099358b891da0f552.png",
     "index.html": "/index.html",
-    "static/media/mark-github.svg": "/static/media/mark-github.c2095d6fdb91cb0c22dd69f9c16f5d87.svg",
-    "main.ff97aaf9.css.map": "/static/css/main.ff97aaf9.css.map",
-    "main.14c9f741.js.map": "/static/js/main.14c9f741.js.map",
+    "static/media/github.svg": "/static/media/github.c2095d6fdb91cb0c22dd69f9c16f5d87.svg",
+    "main.faad14b0.css.map": "/static/css/main.faad14b0.css.map",
+    "main.ddf16e98.js.map": "/static/js/main.ddf16e98.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff97aaf9.css",
-    "static/js/main.14c9f741.js"
+    "static/css/main.faad14b0.css",
+    "static/js/main.ddf16e98.js"
   ]
 }

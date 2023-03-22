@@ -1,6 +1,5 @@
 .name {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   padding-bottom: 30px;
   font-size: 100px;
   color: white;
@@ -11,8 +10,7 @@ img {
 }
 
 .links-container {
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 .links-container span {
   font-size: 8vmin;
@@ -43,8 +41,7 @@ img {
 }
 
 .about-header {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   padding-top: 30px;  
   font-size: 60px;
   color: white;
@@ -52,8 +49,7 @@ img {
 
 .about-container {
   padding-top: 30px;
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .carousel {
@@ -66,8 +62,7 @@ img {
 }
 
 .indicators {
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .indicators > button {
@@ -85,40 +80,34 @@ img {
 }
 
 .tech-stack-header {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   padding-top: 30px;
   font-size: 60px;
   color: white;
 }
 
 .projects-header {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   padding-top: 30px;
   font-size: 60px;
   color: white;
 }
 
 .projects-container {
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .project-link-container {
   padding-top: 30px;
-  padding-right: 30px;
 }
 
 .tech-stack-container {
   padding-top: 30px;
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .form-header {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   padding-top: 30px;
   font-size: 60px;
   color: white;

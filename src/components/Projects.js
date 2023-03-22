@@ -7,7 +7,7 @@ const Projects = () => {
                     <a href="https://gourmandize-e0kd.onrender.com/" target="_blank" rel="noreferrer">Gourmandize</a>
                 </div>
                 <div className="project-link-container">
-                    <a href="https://github.com/learn-academy-2022-hotel/pig-latin-team-courageous-babe" target="_blank" rel="noreferrer">Pig Latin Translator</a>
+                    <a href="https://mightynest.com/" target="_blank" rel="noreferrer">MightyNest</a>
                 </div>
                 <div className="project-link-container">
                     <a href="https://github.com/priceymineral/mini-applications-2/tree/main/challenge_2" target="_blank" rel="noreferrer">Bitcoin Price Index</a>

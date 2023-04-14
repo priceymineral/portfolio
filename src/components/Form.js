@@ -1,12 +1,17 @@
 const Form = () => {
     return (
-        <div 
-            className="form-header"
-            onClick={(e) => {
-                window.location.href ='mailto:tudaeva@gmail.com'
-            }}>
-            Email Me Here 
-        </div>
+        <>
+            <div className="subheader">
+                Email Me Here
+            </div>
+            <div
+                className="form-email"
+                onClick={(e) => {
+                    window.location.href = 'mailto:tudaeva@gmail.com'
+                }}>
+                📨
+            </div>
+        </>
     )
 }
 
